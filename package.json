@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/PetrLomaev/js-automatic-testing/issues"
   },
-  "homepage": "https://github.com/PetrLomaev/js-automatic-testing#readme"
+  "homepage": "https://github.com/PetrLomaev/js-automatic-testing#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
